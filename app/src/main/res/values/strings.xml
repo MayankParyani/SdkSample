@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarcSdkSample</string>
+    <string name="null_pointer_exception">Null Pointer Crash</string>
+    <string name="generate_exception">Generate Exception</string>
+</resources>
